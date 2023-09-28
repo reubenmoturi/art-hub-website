@@ -1,0 +1,42 @@
+#blog{
+    background-color: #f3f3;
+    padding: 40px;
+}
+#blog h2{
+    font-size: 24px;
+    color: #333;
+}
+#blog article{
+    margin-bottom: 20px;
+}
+#blog h3{
+    font-size: 20px;
+    color: #444;
+}
+#blog p{
+    color: #666;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;   
+}
+nav ul li a{
+    text-decoration: none;
+}
+header{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
